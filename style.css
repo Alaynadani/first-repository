@@ -33,7 +33,7 @@ p {
     font-size: 36px
 }
 subheader {
-    font-size: 36px
+    font-size: 36px;
     margin: 16px 0 24px 0;
 }
 button {
@@ -68,7 +68,7 @@ li {
 
 .row {
     width: 100%;
-    max-width: 1300px
+    max-width: 1300px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -91,7 +91,7 @@ li {
 
 h2 {
     font-size: 60px;
-    font-align: center;
+    text-align: center;
     margin-bottom: 24px;
 }
 
